@@ -1,7 +1,7 @@
 ## About me:
 
 * :classical_building:: Data Consultant at Sparta Global
-* 🌱: Learning cloud solutions
+* 🌱: Currently learning cloud solutions
 * :earth_americas:: UK
 
 ## Tech Stack:
