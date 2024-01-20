@@ -1,5 +1,5 @@
 ## About Me
-* :classical_building:: Data Consultant at Sparta Global
+* :classical_building:: Junior Data Engineer at Sparta Global
 * :earth_americas:: UK
 * 🌱: Currently learning cloud solutions
 
