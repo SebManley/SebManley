@@ -12,4 +12,4 @@
 
 
 ## Connect
-[<img width="32" alt="Screenshot 2024-01-17 235417" src="https://github.com/SebManley/SebManley/assets/150821603/23616538-e5cc-44f4-b9c5-6d67700926de">](https://www.linkedin.com/in/sebastian-manley/)
+[<img width="32" alt="Screenshot 2024-01-20 012827" src="https://github.com/SebManley/SebManley/assets/150821603/66cb29ad-76ea-47a7-a0e9-b8b2b1e34c74">](https://www.linkedin.com/in/sebastian-manley/)
