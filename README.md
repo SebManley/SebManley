@@ -4,8 +4,8 @@ I’m a **Data Engineer** based in the UK, passionate about building data pipeli
 
 Currently:  
 - 💼 Working as a Data Engineer (ETL pipelines, cloud data platforms, analytics).  
-- 🌱 Building an **AI Entertainment App** (long-term project).  
-- 🚀 Exploring side projects in **AI, automation, and property investing tools**.  
+- 🌱 Building an **AI Entertainment App**.  
+- 🚀 Exploring side projects in **AI and automation**.  
 
 ---
 
