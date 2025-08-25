@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sebastian Manley
+# About me
 
 I’m a **Data Engineer** based in the UK, passionate about building data pipelines, automating workflows, and exploring how **AI can power the future of business and entertainment**.  
 
