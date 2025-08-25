@@ -10,16 +10,22 @@ Currently:
 ---
 
 ## 🛠️ Tech Stack
-**Languages & Tools**  
-Python • SQL • Airflow • dbt • Pandas • Spark • Docker • AWS/GCP • Power BI • Git  
+**Languages & Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) 
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) 
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
 ---
 ## 📊 GitHub Stats
 [![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SebManley&count_private=true&theme=tokyonight&showicons=true)]()  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebManley&layout=compact&theme=tokyonight)]()  
 
----
-
-## 📈 Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=SebManley&theme=tokyonight&hide_border=true&border_radius=6)  
 
