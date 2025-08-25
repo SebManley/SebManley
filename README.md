@@ -24,6 +24,13 @@ Currently:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
 ---
+
+## 📂 Featured Projects
+- 🔄 **[ETL Pipeline: Sales Data Automation](#)** → Python + Airflow → PostgreSQL → BI Dashboard  
+- 🤖 **[AI Chatbot for Business Docs](#)** → LangChain + GPT + Vector DB  
+- 🏡 **[Property Deal Analyzer](#)** → Calculates ROI, yield & cashflow for investors  
+
+---
 ## 📊 GitHub Stats
 [![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SebManley&count_private=true&theme=tokyonight&showicons=true)]()  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebManley&layout=compact&theme=tokyonight)]()  
