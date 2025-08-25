@@ -1,1 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sebastian Manley — Data Engineer • AI • Automation">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
 
+    <!-- Accent gradient -->
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+
+    <!-- Dotted grid pattern -->
+    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#334155" opacity="0.55"/>
+    </pattern>
+
+    <!-- Soft glow filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Rounded rectangle clip -->
+    <clipPath id="rounded">
+      <rect x="0" y="0" width="1200" height="300" rx="24" ry="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <!-- Background -->
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+
+    <!-- Decorative blobs -->
+    <circle cx="1020" cy="40" r="120" fill="#38bdf8" opacity="0.15" filter="url(#glow)"/>
+    <circle cx="1160" cy="220" r="140" fill="#a78bfa" opacity="0.15" filter="url(#glow)"/>
+    <circle cx="960" cy="260" r="90" fill="#f59e0b" opacity="0.10" filter="url(#glow)"/>
+
+    <!-- Accent line -->
+    <rect x="0" y="260" width="1200" height="6" fill="url(#accent)"/>
+  </g>
+
+  <!-- Title & tagline -->
+  <g transform="translate(60, 86)">
+    <text x="0" y="0" fill="white" font-family="Inter, Segoe UI, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="0.5">
+      Sebastian Manley
+    </text>
+    <text x="0" y="44" fill="#cbd5e1" font-family="Inter, Segoe UI, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600">
+      Data Engineer • AI • Automation
+    </text>
+
+    <!-- Chips -->
+    <g transform="translate(0, 76)">
+      <!-- Chip component: rounded rect with accent stroke -->
+      <g>
+        <rect x="0" y="-24" width="190" height="40" rx="12" fill="rgba(15,23,42,0.35)" stroke="#38bdf8" stroke-opacity="0.7"/>
+        <text x="16" y="3" fill="#e5e7eb" font-size="16" font-weight="600" font-family="Inter, Segoe UI, Ubuntu, Arial, sans-serif">Python • SQL • dbt</text>
+      </g>
+      <g transform="translate(202,0)">
+        <rect x="0" y="-24" width="200" height="40" rx="12" fill="rgba(15,23,42,0.35)" stroke="#a78bfa" stroke-opacity="0.7"/>
+        <text x="16" y="3" fill="#e5e7eb" font-size="16" font-weight="600" font-family="Inter, Segoe UI, Ubuntu, Arial, sans-serif">Airflow • Spark</text>
+      </g>
+      <g transform="translate(414,0)">
+        <rect x="0" y="-24" width="210" height="40" rx="12" fill="rgba(15,23,42,0.35)" stroke="#f59e0b" stroke-opacity="0.7"/>
+        <text x="16" y="3" fill="#e5e7eb" font-size="16" font-weight="600" font-family="Inter, Segoe UI, Ubuntu, Arial, sans-serif">AWS • Azure • Docker</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Subtle right-side graphic (network nodes) -->
+  <g transform="translate(860, 100)">
+    <circle cx="0" cy="0" r="4" fill="#38bdf8"/>
+    <circle cx="80" cy="20" r="4" fill="#a78bfa"/>
+    <circle cx="52" cy="74" r="4" fill="#f59e0b"/>
+    <circle cx="130" cy="90" r="4" fill="#38bdf8"/>
+    <line x1="0" y1="0" x2="80" y2="20" stroke="#334155" stroke-width="2"/>
+    <line x1="80" y1="20" x2="52" y2="74" stroke="#334155" stroke-width="2"/>
+    <line x1="52" y1="74" x2="130" y2="90" stroke="#334155" stroke-width="2"/>
+    <line x1="0" y1="0" x2="52" y2="74" stroke="#334155" stroke-width="2"/>
+  </g>
+
+  <!-- Border radius preview frame -->
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="24" ry="24" fill="none" stroke="#0b1220" stroke-opacity="0.6"/>
+</svg>
