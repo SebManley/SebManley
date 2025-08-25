@@ -1,6 +1,6 @@
 ## About Me
 
-<br>:classical_building:: Data Engineer at Sparta Global
+<br>:classical_building:: Data Engineer
 <br>:earth_americas:: UK
 <br>🌱: Currently building an AI Entertainment App
 
