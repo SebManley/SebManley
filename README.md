@@ -11,7 +11,7 @@ Currently:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Languages & Tools:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) 
@@ -27,20 +27,20 @@ Currently:
 
 ---
 
-## 📂 Featured Projects
-- 🔄 **[ETL Pipeline: Sales Data Automation](#)** → Python + Airflow → PostgreSQL → BI Dashboard  
-- 🤖 **[AI Chatbot for Business Docs](#)** → LangChain + GPT + Vector DB  
-- 🏡 **[Property Deal Analyzer](#)** → Calculates ROI, yield & cashflow for investors  
+## Featured Projects
+- **[ETL Pipeline: Sales Data Automation](#)** → Python + Airflow → PostgreSQL → BI Dashboard  
+- **[AI Chatbot for Business Docs](#)** → LangChain + GPT + Vector DB  
+- **[Property Deal Analyzer](#)** → Calculates ROI, yield & cashflow for investors  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 [![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SebManley&count_private=true&theme=tokyonight&showicons=true)]()  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebManley&layout=compact&theme=tokyonight)]()  
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-manley/)  
 
 
