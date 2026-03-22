@@ -2,7 +2,7 @@
   <img src="./assets/sebastian-manley-banner-dark.svg" alt="Sebastian Manley — Data Engineer • AI • Automation" />
 </p>
 
-I’m a Data Engineer based in the UK, passionate about building data pipelines, automating workflows, and exploring how AI can power the future of business and entertainment.  
+I’m a UK-based Data Engineer passionate about building scalable data pipelines, automating workflows, and creating AI-powered solutions that turn complex data into actionable insights.
 
 Currently:  
 - Working as a Data Engineer  
