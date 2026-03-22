@@ -5,9 +5,9 @@
 I’m a Data Engineer based in the UK, passionate about building data pipelines, automating workflows, and exploring how AI can power the future of business and entertainment.  
 
 Currently:  
-- 💼 Working as a Data Engineer  
-- 🌱 Building an AI Entertainment App
-- 🚀 Exploring side projects in AI and automation
+- Working as a Data Engineer  
+- Building an AI Entertainment App
+- Exploring side projects in AI and automation
 
 ---
 
