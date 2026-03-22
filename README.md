@@ -5,9 +5,9 @@
 I’m a UK-based Data Engineer passionate about building scalable data pipelines, automating workflows, and creating AI-powered solutions that turn complex data into actionable insights.
 
 Currently:  
-- Working as a Data Engineer  
-- Building an AI Entertainment App
-- Exploring side projects in AI and automation
+- Working as a Data Engineer
+- Building an AI entertainment App
+- Contributing consultancy expertise to data engineering and automation projects, from strategy to execution
 
 ---
 
@@ -26,9 +26,9 @@ Currently:
 ---
 
 ## Featured Projects
-- **[ETL Pipeline: Sales Data Automation](#)** → Python + Airflow → PostgreSQL → BI Dashboard  
-- **[AI Chatbot for Business Docs](#)** → LangChain + GPT + Vector DB  
-- **[Property Deal Analyzer](#)** → Calculates ROI, yield & cashflow for investors  
+- **[Example 1](#)** → Python + Airflow → PostgreSQL → BI Dashboard  
+- **[Example 2](#)** → LangChain + GPT + Vector DB  
+- **[Example 3](#)** → Calculates ROI, yield & cashflow for investors  
 
 ---
 
