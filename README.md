@@ -32,9 +32,9 @@ Currently:
 
 ## Featured Projects
 
+- **[real-estate-ops-pipeline](https://github.com/SebManley/real-estate-ops-pipeline)** → Real estate agency ops analytics on ~2.9M real HM Land Registry transactions + a deterministic synthetic CRM calibrated to the live market. dlt incremental merge (add/change/delete) → DuckDB → dbt 20-model warehouse → [interactive Observable Framework report](https://sebmanley.github.io/real-estate-ops-pipeline/) on GitHub Pages. 102 automated tests (35 pytest + 67 dbt), GitHub Actions monthly cron + CI on every push.
 - **[data-pipeline-dbt](https://github.com/SebManley/data-pipeline-dbt)** → Production dbt pipeline on the Olist e-commerce dataset (~100k orders). PostgreSQL + Docker, staged model layering, incremental loads, 58 automated tests, CI on every push.
-- **[crypto-market-pipeline](https://github.com/SebManley/crypto-market-pipeline)** → Live crypto market pipeline across 10 coins via CoinGecko REST API. Python → BigQuery, dbt 3-layer model staging → intermediate (LAG daily returns, 7d/30d SMA, rolling volatility) → incremental partitioned mart, Streamlit dashboard on Community Cloud. 59 automated tests (28 pytest + 31 dbt), GitHub Actions daily cron + slim CI on P
-- **[Example 3](#)** → Calculates ROI, yield & cashflow for investors
+- **[crypto-market-pipeline](https://github.com/SebManley/crypto-market-pipeline)** → Live crypto market pipeline across 10 coins via CoinGecko REST API. Python → BigQuery, dbt 3-layer model staging → intermediate (LAG daily returns, 7d/30d SMA, rolling volatility) → incremental partitioned mart, Streamlit dashboard on Community Cloud. 59 automated tests (28 pytest + 31 dbt), GitHub Actions daily cron + slim CI on PRs.
 
 ---
 
