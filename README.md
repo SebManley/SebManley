@@ -2,13 +2,13 @@
   <img src="./assets/sebastian-manley-banner-dark.svg" alt="Sebastian Manley — Data Engineer • AI • Automation" />
 </p>
 
-I'm a UK-based Data Engineer passionate about building scalable data pipelines, automating
+UK-based Data Engineer experienced in building scalable data pipelines, automating
 workflows, and creating AI-powered solutions that turn complex data into actionable insights.
 
 Currently:
 - Working as a Data Engineer
 - Building an AI entertainment app
-- Contributing consultancy expertise to data engineering and automation projects, from strategy to execution
+- Providing consultancy expertise to data engineering and automation projects, from strategy to execution
 
 ---
 
@@ -32,8 +32,8 @@ Currently:
 
 ## Featured Projects
 
-- **[real-estate-ops-pipeline](https://github.com/SebManley/real-estate-ops-pipeline)** → Real estate agency ops analytics on ~2.9M real HM Land Registry transactions + a deterministic synthetic CRM calibrated to the live market. dlt incremental merge (add/change/delete) → DuckDB → dbt 20-model warehouse → [interactive Observable Framework report](https://sebmanley.github.io/real-estate-ops-pipeline/) on GitHub Pages. 102 automated tests (35 pytest + 67 dbt), GitHub Actions monthly cron + CI on every push.
-- **[data-pipeline-dbt](https://github.com/SebManley/data-pipeline-dbt)** → Production dbt pipeline on the Olist e-commerce dataset (~100k orders). PostgreSQL + Docker, staged model layering, incremental loads, 58 automated tests, CI on every push.
+- **[real-estate-ops-pipeline](https://github.com/SebManley/real-estate-ops-pipeline)** → Real estate agency ops analytics on ~2.9M real HM Land Registry transactions + a deterministic synthetic CRM calibrated to the live market. dlt incremental merge (add/change/delete) → DuckDB → dbt 20-model warehouse → interactive Observable Framework report on GitHub Pages. 102 automated tests (35 pytest + 67 dbt), GitHub Actions monthly cron + CI on every push.
+- **[ecommerce-analytics-pipeline](https://github.com/SebManley/data-pipeline-dbt)** → Production dbt pipeline on the Olist e-commerce dataset (~100k orders). PostgreSQL + Docker, staged model layering, incremental loads, 58 automated tests, CI on every push.
 - **[crypto-market-pipeline](https://github.com/SebManley/crypto-market-pipeline)** → Live crypto market pipeline across 10 coins via CoinGecko REST API. Python → BigQuery, dbt 3-layer model staging → intermediate (LAG daily returns, 7d/30d SMA, rolling volatility) → incremental partitioned mart, Streamlit dashboard on Community Cloud. 59 automated tests (28 pytest + 31 dbt), GitHub Actions daily cron + slim CI on PRs.
 
 ---
