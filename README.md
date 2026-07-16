@@ -8,7 +8,7 @@ workflows, and creating AI-powered solutions that turn complex data into actiona
 Currently:
 - Working as a Data Engineer
 - Building an AI entertainment app
-- Providing consultancy expertise to data engineering and automation projects, from strategy to execution
+- Providing consultancy expertise to data engineering and automation projects, from strategy design to execution
 
 ---
 
